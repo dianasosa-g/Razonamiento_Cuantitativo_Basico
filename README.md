@@ -1,1 +1,1 @@
-# Razonamiento_Cuantico_Basico
+# Razonamiento_Cuantitativo_Basico
